@@ -196,7 +196,7 @@ function Landing() {
       <footer className="landing-footer">
         <div className="brand">
           <div className="brand-mark">AI</div>
-          <span>InterviewAI</span>
+          <span>CareerVerse AI</span>
         </div>
         <span>AI-powered technical interview & mentorship platform</span>
       </footer>
