@@ -37,7 +37,7 @@ export default function Navbar() {
               <Sparkles size={16} />
             </div>
             <span className="navbar-brand-name">
-              Interview<span className="navbar-brand-accent">AI</span>
+              Career<span className="navbar-brand-accent">Verse</span>
             </span>
             <span className="navbar-badge">PRO</span>
           </Link>
