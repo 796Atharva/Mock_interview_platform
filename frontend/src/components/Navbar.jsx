@@ -39,7 +39,7 @@ export default function Navbar() {
             <span className="navbar-brand-name">
               Career<span className="navbar-brand-accent">Verse</span>
             </span>
-            <span className="navbar-badge">PRO</span>
+            <span className="navbar-badge">AI</span>
           </Link>
 
           {/* Navigation Links */}
